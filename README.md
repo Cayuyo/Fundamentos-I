@@ -3,9 +3,8 @@
 Repositorio publico para el bootcamp de Coding Dojo sobre logica de programacion, bucles y condicionales
 .
 <h3>Objetivo:</h3>
-<ul>
-  <li>Implementar la lógica de programación, como bucles y condicionales, para resolver problemas utilizando la sintaxis de C# en una aplicación de consola.​</li>
-</ul>
+  <p>Implementar la lógica de programación, como bucles y condicionales, para resolver problemas utilizando la sintaxis de C# en una aplicación de consola.​<p>
+
 
 <ol>
   <li>Crea un bucle que vaya desde el 1 al 255</li>
